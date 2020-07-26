@@ -1,9 +1,7 @@
 package ru.artem;
 
-/**
- * Hello world!
- *
- */
+import ru.artem.MyService;
+
 public class Main
 {
     public static void main(String[] args) {
